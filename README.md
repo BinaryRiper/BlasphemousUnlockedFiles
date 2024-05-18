@@ -1,4 +1,4 @@
-Replace original files with these under AppData\LocalLow\TheGameKitchen\Blasphemous\?\?  
+Replace original files with these under AppData\LocalLow\TheGameKitchen\Blasphemous\\?\\?  
 | FILES  | HACK |
 | -------- |:--------:|
 |app_settings|Unlock all skins
