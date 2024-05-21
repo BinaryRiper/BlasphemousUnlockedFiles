@@ -3,3 +3,4 @@ Replace original files with these under AppData\LocalLow\TheGameKitchen\Blasphem
 | -------- |:--------:|
 |app_settings|Unlock all skins
 |local_achievements.data|Unlock all achievements
+|BossRushData.config|Unlock Sacred Sorrows Mode
